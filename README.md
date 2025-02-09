@@ -1,6 +1,6 @@
 ## Hello~
 
-A lot of my code is a work in progress, but I'm hoping for my github account to be representative of the things I love and everything about myself. 
+A lot of my code is a work in progress (Thus private as a result), but I'm hoping for my github account to be representative of the things I love and everything about myself. 
 
 I'm Currently Learning Japanese, albeit very slowly. 
 
