@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello~
+
+A lot of my code is a work in progress, but I'm hoping for my github account to be representative of the things I love and everything about myself. 
+
+I'm Currently Learning Japanese, albeit very slowly. 
 
 <!--
 **laxvy/laxvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
