@@ -1,8 +1,10 @@
 ## Hello.
 
-A lot of my code is a work in progress (Thus private as a result), but I'm hoping for my github account to be representative of the things I love and everything about myself. I have a huge love for Low Level and Backend Programming, though I'm not averse to front end work either. 
-**Please keep in mind My Brain Moves INCREDIBLY Fast, and I might miss Obvious things from time to Time, alongside making Incomprehensible Statements or Choices. Pointing out when this happens is appreciated!**
-On the Non-Coding side of things, I'm Currently Learning Japanese, albeit very slowly. 
+A lot of my code is a work in progress (Thus private as a result), but I'm hoping for my github account to be representative of the things I love and everything about myself. I have a huge love for Low Level and Backend Programming, though I'm not averse to front end work either.
+
+ **Please keep in mind My Brain Moves INCREDIBLY Fast, and I might miss Obvious things from time to Time, alongside making Incomprehensible Statements or Choices. Pointing out when this happens is appreciated!**
+
+ On the Non-Coding side of things, I'm Currently Learning Japanese, albeit very slowly. 
 
 <!--
 **laxvy/laxvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
