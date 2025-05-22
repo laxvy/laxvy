@@ -2,7 +2,7 @@
 
 A lot of my code is a work in progress (Thus private as a result), but I'm hoping for my github account to be representative of the things I love and everything about myself. I have a huge love for Low Level and Backend Programming, though I'm not averse to front end work either.
 
- **Please keep in mind My Brain Moves INCREDIBLY Fast, and I might miss Obvious things from time to Time, alongside making Incomprehensible Statements or Choices. Pointing out when this happens is appreciated!**
+ **Please keep in mind My Brain tends to be Either Fast or Incredibly Spacy, without much in between, which can result in me making Incomprehensible Statements or Choices from time to time. Pointing out when this happens is appreciated!**
 
  On the Non-Coding side of things, I'm Currently Learning Japanese, albeit very slowly. 
 
