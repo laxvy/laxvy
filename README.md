@@ -1,4 +1,4 @@
-## Slowly Migrating my stuff over to Codeberg
+## Mostly Using Codeberg nowadays, but I'll pitch in here when I can!
 Hello.
 
 A lot of my code is a work in progress (Thus private as a result), but I'm hoping for my github account to be representative of the things I love and everything about myself. I have a huge love for Low Level and Backend Programming, though I'm not averse to front end work either.
